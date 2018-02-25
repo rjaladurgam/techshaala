@@ -8,7 +8,7 @@ theme = "even"
 
 hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
 paginate = 3                                              # 首页每页显示的文章数
-disqusShortname = "techshaala"      # disqus_shortname
+DisqusShortname = "techshaala"      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
@@ -104,6 +104,9 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     sitePV = true
     pagePV = true
 
+  [params.comments]	
+	enable = true
+	
   [params.reward]                                         # 文章打赏
     enable = false
     wechat = "/path/to/your/wechat-qr-code.png"           # 微信二维码
