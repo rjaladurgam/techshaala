@@ -2,7 +2,7 @@
 title: "Java Second Post"
 date: 2018-02-24T01:09:34+05:30
 lastmod: 2018-02-24T01:09:34+05:30
-draft: true
+draft: false
 keywords: []
 description: ""
 tags: ["preview", "English", "tag-2"]

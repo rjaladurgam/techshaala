@@ -2,7 +2,7 @@
 title: "First Testing Post"
 date: 2018-02-24T00:37:09+05:30
 lastmod: 2018-02-24T00:37:09+05:30
-draft: true
+draft: false
 keywords: []
 description: ""
 tags: []
