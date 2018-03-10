@@ -8,7 +8,7 @@ description: ""
 tags: []
 categories: ["Testing"]
 author: ""
-Type: "testing"
+Type: ""
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed

@@ -10,15 +10,14 @@ comment: false
 mathjax: false
 ---
 
-Hugo is a static site engine written in Go.
+This blog, **_TechShaala_** intends to provide a platform through which students could equip themselves with the software skills that are in demand and be job ready. The knowledge articles would equip the students to understand the current industry needs and also give a direction to enhance their knowledge so that they are in demand when out of college. 
 
+**_Techshaala_** is targetted towards students of Tier2 or Tier3 towns, but could be of help to any student wanting to make a career in software development. The vision is for the student to start productive work from Day1 on the job. Discussion board helps the students to ask questions and get the responses from industry experts and fellow students. 
 
-It makes use of a variety of open source projects including:
+Student and Industry volunteers are encouraged to write content to TechShaala. For students, the contributions would increase their technical and writing skills and also increase their resume power. Refer to the section **_Contribute_** on the content volunteering process.
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+Finally, the quotes from **_Dr.APJ Abdul Kalam_** on dreams could be the guiding light for students. 
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+>Dream, Dream and Dream. Dreams transform into Thoughts and Thoughts result in Action 
+
 
