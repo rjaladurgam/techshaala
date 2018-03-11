@@ -12,7 +12,6 @@ paginate = 5                                              # 首页每页显示�
 DisqusShortname = "techshaala"      # disqus_shortname
 googleAnalytics = "UA-115444535-1"      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
-google-site-verification = "8MozsfwQemilUYSVsyh8-o1KfnxpyV1rHfIMfW88lWY"
 
 [author]                  # essential                     # 必需
   name = "Ramana Jaladurgam"
@@ -39,7 +38,7 @@ google-site-verification = "8MozsfwQemilUYSVsyh8-o1KfnxpyV1rHfIMfW88lWY"
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
 
   since = "2017"            # Site creation time          # 站点建立时间
-
+  
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
   logoTitle = "TechShaala"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Hugo", "theme","even"]
@@ -72,7 +71,7 @@ google-site-verification = "8MozsfwQemilUYSVsyh8-o1KfnxpyV1rHfIMfW88lWY"
   baidu_push = false        # baidu push                  # 百度
   baidu_analytics = ""      # Baidu Analytics
   baidu_verification = ""   # Baidu Verification
-  google_verification = ""  # Google_Verification         # 谷歌
+  google_verification = "8MozsfwQemilUYSVsyh8-o1KfnxpyV1rHfIMfW88lWY"  # Google_Verification         # 谷歌
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
