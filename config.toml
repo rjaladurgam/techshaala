@@ -102,8 +102,8 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    a-email = "mailto:rjaldurgam@gmail.com"
-    c-twitter = "https://twitter.com/rjaladurgam"
+    a-email = "mailto:techshaala963@gmail.com"
+    c-twitter = "https://twitter.com/techshaala963"
     d-facebook = "https://www.facebook.com/ramana.jaladurgam"
     e-linkedin = "https://www.linkedin.com/in/ramana-jaladurgam-56690565/"
 
