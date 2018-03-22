@@ -1,12 +1,12 @@
 ---
 title: "Top5 programming skills for 2018"
-date: 2018-03-10T00:37:09+05:30
-lastmod: 2018-03-10T00:37:09+05:30
+date: 2018-03-22T00:37:09+05:30
+lastmod: 2018-03-22T00:37:09+05:30
 draft: false
 keywords: []
 description: ""
 tags: []
-categories: ["Testing"]
+categories: ["Programming"]
 author: ""
 Type: ""
 
