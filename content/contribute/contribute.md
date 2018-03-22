@@ -9,4 +9,9 @@ weight: 50
 comment: false
 mathjax: false
 ---
-How to contribute to TechShaala
+# How to contribute to TechShaala
+
+Write the article using https://dillinger.io/. Use the markdown syntax to format the text like bold, italic etc.
+
+Submit the article to techshaala963@gmail.com. There would be a review and editing as needed and you would be sent the final document ready for publishing. Once approved, the article would be published on techshaala. Send the article link to your friends, colleagues and family and increase your recognition.
+
